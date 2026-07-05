@@ -19,7 +19,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/📍_Location-Ahmedabad%2C_Gujarat%2C_India-00d4ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏢_Experience-SOC_Analyst_(8_Months)-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏢_Experience-Cyber_Security_Analyst_@_Demisto_Technologies-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🎓_College-SAL_Engineering_%26_Technical_Institute_(GTU)-6f42c1?style=for-the-badge"/>
 </p>
 
@@ -33,7 +33,7 @@
 keyur = {
     "name"        : "Keyur Solanki",
     "role"        : ["Cybersecurity Analyst", "SOC Analyst", "VAPT Enthusiast", "Cloud Security Researcher"],
-    "experience"  : "Cyber Security Analyst — SOC Operations (Feb 2025 - Sep 2025)",
+    "experience"  : "Cyber Security Analyst — Demisto Technologies",
     "education"   : "B.E. Information & Communication Technology — SAL Institute, GTU",
     "location"    : "Ahmedabad, Gujarat, India 📍",
     "focus"       : ["Threat Detection", "Incident Response", "Penetration Testing", "Cloud Security", "AI for CyberSec"],
@@ -52,9 +52,9 @@ Cybersecurity Analyst with hands-on SOC experience — monitoring security event
 
 <div align="center">
 
-| Role | Focus Area | Duration |
-|:---|:---|:---:|
-| 🛡️ **Cyber Security Analyst** | SOC Operations & Threat Detection | Feb 2025 – Sep 2025 |
+| Role | Company | Focus Area |
+|:---|:---|:---|
+| 🛡️ **Cyber Security Analyst** | Demisto Technologies | SOC Operations & Threat Detection |
 
 </div>
 
