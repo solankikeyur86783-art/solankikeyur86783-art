@@ -84,73 +84,84 @@ Cybersecurity Analyst with hands-on SOC experience — monitoring security event
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🚨 AI-Powered SIEM Platform
-> *Final Year Project*
+> *Final Year Project — Completed ✅*
 
-An intelligent SIEM solution leveraging **AI/ML** for enterprise-grade security operations.
+An intelligent SIEM solution leveraging **AI/ML** for enterprise-grade security operations, built to reduce alert fatigue and speed up triage for SOC teams.
 
-- ✅ Real-time Log Collection & Correlation
-- ✅ Threat Detection & Automated Analysis
-- ✅ Alert Management & IR Workflows
-- ✅ Interactive Security Dashboard
+**Key Features**
+- ✅ Real-time log collection & correlation across multiple sources
+- ✅ AI-assisted threat detection and automated log analysis
+- ✅ Alert management, enrichment, and incident-response workflows
+- ✅ Interactive security dashboard with live event visualization
+- ✅ Custom detection rules mapped to MITRE ATT&CK techniques
 
-**Stack:** Python · Elasticsearch · FastAPI · React
+**Tech Stack:** `Python` · `Elasticsearch` · `FastAPI` · `React`
 
-</td>
-<td width="50%" valign="top">
+**Repo:** [github.com/solankikeyur86783-art/ai-powered-siem-platform](https://github.com/solankikeyur86783-art/ai-powered-siem-platform)
+
+---
 
 ### 🛡️ Sentinel AI
 > *In Progress 🔨*
 
-AI-powered security monitoring and threat detection platform to identify malicious activities and deliver actionable insights.
+AI-powered security monitoring and threat detection platform designed to identify malicious activity across endpoints and networks and surface actionable insights for analysts.
 
-- 🔍 Behavioral Anomaly Detection
-- 🤖 AI-Driven Threat Classification
-- 📊 Real-time Security Event Analysis
-- 🚨 Smart Alerting Engine
+**Key Features**
+- 🔍 Behavioral anomaly detection using baseline traffic profiling
+- 🤖 AI-driven threat classification (malicious vs. benign vs. suspicious)
+- 📊 Real-time security event analysis and correlation
+- 🚨 Smart alerting engine with severity-based prioritization
 
-**Stack:** Python · ML · FastAPI · React
+**Roadmap**
+- [ ] Expand ML model training set with labeled threat data
+- [ ] Add automated response playbooks (SOAR integration)
+- [ ] Build analyst-facing investigation dashboard
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Tech Stack:** `Python` · `Machine Learning` · `FastAPI` · `React`
+
+**Repo:** [github.com/solankikeyur86783-art/sentinel-ai](https://github.com/solankikeyur86783-art/sentinel-ai)
+
+---
 
 ### ☁️ CSPM Cloud Security
 > *In Progress 🔨*
 
-Cloud Security Posture Management platform to detect misconfigurations and compliance risks across multi-cloud environments.
+Cloud Security Posture Management platform to detect misconfigurations, exposed services, and compliance risks across multi-cloud environments.
 
-- ☁️ AWS · Azure · GCP Coverage
-- 🔎 Misconfiguration Detection
-- 📋 Compliance Violation Reporting
-- 🛡️ Exposed Services Discovery
+**Key Features**
+- ☁️ Coverage across AWS, Azure, and GCP
+- 🔎 Automated misconfiguration and drift detection
+- 📋 Compliance violation reporting (CIS Benchmarks-aligned)
+- 🛡️ Discovery of publicly exposed services and storage buckets
 
-**Stack:** Python · Terraform · AWS · Azure · GCP
+**Roadmap**
+- [ ] Add support for deeper multi-cloud compliance frameworks (ISO 27001, SOC 2)
+- [ ] Automated remediation suggestions via Terraform
+- [ ] Continuous scanning with scheduled scans & alerting
 
-</td>
-<td width="50%" valign="top">
+**Tech Stack:** `Python` · `Terraform` · `AWS` · `Azure` · `GCP`
+
+**Repo:** [github.com/solankikeyur86783-art/cspm-cloud-security](https://github.com/solankikeyur86783-art/cspm-cloud-security)
+
+---
 
 ### 🔍 VulnScanAI
 > *Completed ✅*
 
-AI-based vulnerability assessment solution with automated recon, risk prioritization, and professional security reporting.
+AI-based vulnerability assessment solution with automated reconnaissance, risk prioritization, and professional security reporting.
 
-- 🎯 Automated Reconnaissance
-- 🧠 AI Risk Scoring & Prioritization
-- 📄 Professional Security Reports
-- ⚡ Fast Multi-target Scanning
+**Key Features**
+- 🎯 Automated reconnaissance across multiple targets
+- 🧠 AI-driven risk scoring and vulnerability prioritization
+- 📄 Auto-generated professional security assessment reports
+- ⚡ Fast, parallelized multi-target scanning
 
-**Stack:** Python · AI/ML · Bash · APIs
+**Tech Stack:** `Python` · `AI/ML` · `Bash` · `APIs`
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+**Repo:** [github.com/solankikeyur86783-art/vulnscanai](https://github.com/solankikeyur86783-art/vulnscanai)
+
+---
 
 ### 🧪 Cybersecurity Training & Practical Labs
 > *Jan 2022 – Present*
@@ -160,10 +171,7 @@ Self-built virtual lab environments for penetration testing, exploitation, and B
 - 🖥️ Custom labs for recon, exploitation, privilege escalation & lateral movement
 - 🛡️ Blue Team playbooks — log monitoring, intrusion detection, incident response
 - 📚 Practiced against **MITRE ATT&CK** and the **Cyber Kill Chain** frameworks
-
-</td>
-</tr>
-</table>
+- 🧰 Environments built with VirtualBox/VMware, Kali Linux, and vulnerable-by-design VMs (Metasploitable, DVWA, HackTheBox/TryHackMe machines)
 
 ---
 
